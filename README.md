@@ -9,7 +9,7 @@ Though this project is a work in progress, the idea was to create a color refere
 ### To Make the Code Work
 1. Obtain an API key from the Rijksmuseum https://data.rijksmuseum.nl/object-metadata/api/
 
-2. Follow the steps in Blue_GetRijksmuseum2.py to get the data from the Rijksmuseum website and store it into a CSV.
+2. Follow the steps in Blue_GetRijksmuseum2-1.py to get the data from the Rijksmuseum website and store it into a CSV.
 
 3. Use Blue_GetImage2.py to retrieve the images from the web.
 
